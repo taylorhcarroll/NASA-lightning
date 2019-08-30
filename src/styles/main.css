@@ -1,0 +1,22 @@
+.mainContainer {
+    background-color: aquamarine;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-flow: column wrap;
+    
+}
+
+.imgNASA {
+    max-width: 80%;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    padding-left: 20%;
+    padding-right: 20%;
+}
